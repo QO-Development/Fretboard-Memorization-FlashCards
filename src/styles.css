@@ -41,3 +41,41 @@ body {
   will-change: transform, opacity;
   text-shadow: 0px 2px 40px #00000020, 0px 2px 5px #00000030;
 }
+
+.fade-in-text {
+  animation: fadeIn linear 7s;
+  -webkit-animation: fadeIn linear 7s;
+  -moz-animation: fadeIn linear 7s;
+  -o-animation: fadeIn linear 7s;
+  -ms-animation: fadeIn linear 7s;
+}
+
+@keyframes fadeIn {
+  0% {opacity:0;}
+  66% { opacity:0; }
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  66% { opacity:0; }
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  66% { opacity:0; }
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  66% { opacity:0; }
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  66% { opacity:0; }
+  100% {opacity:1;}
+}

@@ -1,36 +1,72 @@
 import { render } from "react-dom";
 import React, { useState, useCallback } from "react";
 import { useTransition, animated } from "react-spring";
+import { Card } from "./card";
 import "./styles.css";
 
 const pages = [
   ({ style }) => (
-    <animated.div style={{ ...style, background: "lightpink" }}>
-      <h1 style={{ fontSize: 24 }}>Sixth String</h1>
-      <h1 style={{ fontSize: 24 }}>5th Fret</h1>A
-    </animated.div>
+    <Card
+      string="Sixth String"
+      fret="5th Fret"
+      note="A"
+      style={style}
+      backgroundColor="lightpink"
+    />
   ),
   ({ style }) => (
-    <animated.div style={{ ...style, background: "lightblue" }}>B</animated.div>
+    <Card
+      string="Sixth String"
+      fret="7th Fret"
+      note="B"
+      style={style}
+      backgroundColor="lightblue"
+    />
   ),
   ({ style }) => (
-    <animated.div style={{ ...style, background: "lightgreen" }}>
-      C
-    </animated.div>
+    <Card
+      string="Sixth String"
+      fret="8th Fret"
+      note="C"
+      style={style}
+      backgroundColor="lightgreen"
+    />
   ),
   ({ style }) => (
-    <animated.div style={{ ...style, background: "#FFCCCB" }}>D</animated.div>
+    <Card
+      string="Sixth String"
+      fret="10th Fret"
+      note="D"
+      style={style}
+      backgroundColor="#1ACCCF"
+    />
   ),
   ({ style }) => (
-    <animated.div style={{ ...style, background: "lightyellow" }}>
-      E
-    </animated.div>
+    <Card
+      string="Sixth String"
+      fret="12th Fret"
+      note="E"
+      style={style}
+      backgroundColor="lightyellow"
+    />
   ),
   ({ style }) => (
-    <animated.div style={{ ...style, background: "#CBC3E3" }}>F</animated.div>
+    <Card
+      string="Sixth String"
+      fret="1st Fret"
+      note="F"
+      style={style}
+      backgroundColor="#CBC3E3"
+    />
   ),
   ({ style }) => (
-    <animated.div style={{ ...style, background: "#FFD580" }}>G</animated.div>
+    <Card
+      string="Sixth String"
+      fret="3rd Fret"
+      note="G"
+      style={style}
+      backgroundColor="#FFD580"
+    />
   ),
 ];
 
