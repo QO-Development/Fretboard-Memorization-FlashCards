@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Fretboard-Memorization-FlashCards/precache-manifest.668f9858c9bde19efdf73e7b134d19b3.js"
+  "/Fretboard-Memorization-FlashCards/precache-manifest.21fca75894c45afee0ca2702baedea02.js"
 );
 
 workbox.clientsClaim();
