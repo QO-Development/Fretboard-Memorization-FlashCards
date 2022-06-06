@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://codesandbox.io/s/new",
+  "homepage": "https://www.hawthornehacks.com/Fretboard-Memorization-FlashCards/",
   "main": "src/index.js",
   "dependencies": {
     "lodash": "4.17.11",

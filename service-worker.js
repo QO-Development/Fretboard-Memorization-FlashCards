@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/s/new/precache-manifest.3e3f09936d3e28aaa2481bce87160f81.js"
+  "/Fretboard-Memorization-FlashCards/precache-manifest.668f9858c9bde19efdf73e7b134d19b3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/s/new/index.html", {
+workbox.routing.registerNavigationRoute("/Fretboard-Memorization-FlashCards/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

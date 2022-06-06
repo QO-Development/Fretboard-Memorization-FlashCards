@@ -1,13 +1,13 @@
 {
-  "main.css": "/s/new/static/css/main.a4c362c4.chunk.css",
-  "main.js": "/s/new/static/js/main.d6d69609.chunk.js",
-  "main.js.map": "/s/new/static/js/main.d6d69609.chunk.js.map",
-  "static/js/1.dad5280e.chunk.js": "/s/new/static/js/1.dad5280e.chunk.js",
-  "static/js/1.dad5280e.chunk.js.map": "/s/new/static/js/1.dad5280e.chunk.js.map",
-  "runtime~main.js": "/s/new/static/js/runtime~main.e86c6270.js",
-  "runtime~main.js.map": "/s/new/static/js/runtime~main.e86c6270.js.map",
-  "static/css/main.a4c362c4.chunk.css.map": "/s/new/static/css/main.a4c362c4.chunk.css.map",
-  "index.html": "/s/new/index.html",
-  "precache-manifest.3e3f09936d3e28aaa2481bce87160f81.js": "/s/new/precache-manifest.3e3f09936d3e28aaa2481bce87160f81.js",
-  "service-worker.js": "/s/new/service-worker.js"
+  "main.css": "/Fretboard-Memorization-FlashCards/static/css/main.517cdba4.chunk.css",
+  "main.js": "/Fretboard-Memorization-FlashCards/static/js/main.2f105d8b.chunk.js",
+  "main.js.map": "/Fretboard-Memorization-FlashCards/static/js/main.2f105d8b.chunk.js.map",
+  "static/js/1.dad5280e.chunk.js": "/Fretboard-Memorization-FlashCards/static/js/1.dad5280e.chunk.js",
+  "static/js/1.dad5280e.chunk.js.map": "/Fretboard-Memorization-FlashCards/static/js/1.dad5280e.chunk.js.map",
+  "runtime~main.js": "/Fretboard-Memorization-FlashCards/static/js/runtime~main.31bb8dd2.js",
+  "runtime~main.js.map": "/Fretboard-Memorization-FlashCards/static/js/runtime~main.31bb8dd2.js.map",
+  "static/css/main.517cdba4.chunk.css.map": "/Fretboard-Memorization-FlashCards/static/css/main.517cdba4.chunk.css.map",
+  "index.html": "/Fretboard-Memorization-FlashCards/index.html",
+  "precache-manifest.668f9858c9bde19efdf73e7b134d19b3.js": "/Fretboard-Memorization-FlashCards/precache-manifest.668f9858c9bde19efdf73e7b134d19b3.js",
+  "service-worker.js": "/Fretboard-Memorization-FlashCards/service-worker.js"
 }
